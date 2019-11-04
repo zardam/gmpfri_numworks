@@ -1,0 +1,18 @@
+expm1.lo: expm1.c mpfi-impl.h mpfi.h /home/parisse/numworks/include/gmp.h \
+ /usr/lib/gcc/arm-none-eabi/7.3.1/include/stddef.h \
+ /usr/lib/gcc/arm-none-eabi/7.3.1/include-fixed/limits.h \
+ /home/parisse/numworks/include/mpfr.h ../mpfi_config.h
+
+mpfi-impl.h:
+
+mpfi.h:
+
+/home/parisse/numworks/include/gmp.h:
+
+/usr/lib/gcc/arm-none-eabi/7.3.1/include/stddef.h:
+
+/usr/lib/gcc/arm-none-eabi/7.3.1/include-fixed/limits.h:
+
+/home/parisse/numworks/include/mpfr.h:
+
+../mpfi_config.h:
